@@ -1,9 +1,6 @@
 [mod]
 title: Hyperborea
 description: Placeholder
-
-minVersion: v1.15
-
 tags: total conversion
-
-thumbnail: mod-thumbnail.png
+minVersion: v1.15
+thumbnail: assets/images/other/thumb.png
