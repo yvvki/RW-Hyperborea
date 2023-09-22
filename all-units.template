@@ -1,3 +1,10 @@
+[core]
+# Common Keys
+strictLevel: 1
+switchPriceWithStreamingCost: true
+
+#==== Resources
+
 [global_resource_material]
 displayName: Material
 hidden: false
