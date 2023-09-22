@@ -1,5 +1,2 @@
 # Workspace configuration
 .vscode/
-
-# Build output
-/all-units.template
